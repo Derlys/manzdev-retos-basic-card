@@ -1,17 +1,19 @@
-# manzdev-retos-titulo
+# manzdev-retos-basic-card
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a:** *Derlys Dominguez*
+- 🐇 **Link a red social:** *https://twitter.com/derlys_paola*
+- 🦾 **Perfil:** *Medio *
+- 💬 **Un comentario breve o frase ingeniosa**: *Lo unico constante en la vida es el cambio*
 
 ## Observaciones
 
-*Escribe aquí tus observaciones sobre la implementación*
+### paso 1: Codigo base con flex css
+### paso 2: Implementar propiedades de css
+### paso 3: Desplegar
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
